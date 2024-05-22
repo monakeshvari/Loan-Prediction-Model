@@ -1,4 +1,4 @@
-# # Loan Prediction Model
+## Loan Prediction Model
 
 This project is focused on predicting the loan amount based on various features using different regression techniques. The dataset used for this project contains information about loans, such as loan type, repayment status, start and end dates, and interest rates.
 
